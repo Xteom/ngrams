@@ -2,3 +2,4 @@ syn0_ngf_2000_2012_full.txt
 vocab_list_ngf_2000_2012_full.txt
 w2vmodel_ng5_2000_2012_full
 ngrams/*
+downloaded_ngrams/*
